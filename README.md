@@ -12,7 +12,11 @@ See result below:
 
 # run container in docker
 
-    docker build --no-cache -t "extde/rust-dev-environment" .
+    docker build -t "extde/rust-dev-environment" .
     docker create -t --name rust-alpine extde/rust-dev-environment
     docker start rust-alpine
     docker exec -it rust-alpine ash
+
+Then start nvim to finish configuration
+
+    nvim
