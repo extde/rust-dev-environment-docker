@@ -6,6 +6,8 @@ Docker file with rust developemnt environment preinstalled (alpine, rust, neovim
 Download ["JetBrainsMono Nerd Font"](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip) and install it.
 
 I am using MS PowerShell 7, which run in Windows Terminal (https://github.com/microsoft/terminal).
+Windows Terminal supports mouse actions (that's cool).
+
 Best presentation (icons shown without cutoff) is with "JetBrainsMono NFP" font family. I prefer "Light" variant.
 
 # run container in docker
