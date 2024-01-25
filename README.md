@@ -10,6 +10,11 @@ Windows Terminal supports mouse actions (that's cool).
 
 Best presentation (icons shown without cutoff) is with "JetBrainsMono NFP" font family. I prefer "Light" variant.
 
+# copy neovim text (visible) into windows clipboard
+
+The easiest way is to use following combinations: press \<Shift\> + select text to copy, then press \<Enter\>.
+You may select text with cursor.
+
 # run container in docker
 
     docker build --no-cache -t "extde/rust-dev-environment" .
